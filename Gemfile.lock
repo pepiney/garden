@@ -61,11 +61,7 @@ GEM
     bindex (0.8.1)
     bootsnap (1.4.6)
       msgpack (~> 1.0)
-<<<<<<< HEAD
-    bootstrap (4.5.3)
-=======
     bootstrap (4.3.1)
->>>>>>> 457a79783f6b563aff904302514273b670ce819f
       autoprefixer-rails (>= 9.1.0)
       popper_js (>= 1.14.3, < 2)
       sassc-rails (>= 2.0.0)
@@ -224,11 +220,7 @@ PLATFORMS
 DEPENDENCIES
   autoprefixer-rails
   bootsnap
-<<<<<<< HEAD
-  bootstrap (>= 4.3.1)
-=======
   bootstrap (~> 4.3.1)
->>>>>>> 457a79783f6b563aff904302514273b670ce819f
   dotenv-rails
   faker
   font-awesome-sass (~> 5.6.1)
