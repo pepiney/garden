@@ -5,7 +5,7 @@ gem 'bootsnap', require: false
 # gem 'jbuilder', '~> 2.0'
 gem 'bootstrap', '~> 4.3.1'
 gem 'pg', '~> 0.21'
-gem 'puma', '~> 5.1', '>= 5.1.1'
+gem 'puma', '~> 5.6'
 gem 'rails'
 gem 'redis'
 gem 'faker'
